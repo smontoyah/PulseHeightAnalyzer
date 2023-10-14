@@ -6,7 +6,7 @@
 
 This repository contains the hardware designs and software applications of the Open Source Pulse Height Analyzer (PHA) developed by the Scientific Instrumentation Group (GICM) at the University of Antioquia. The PHA is an instrument commonly used in nuclear physics to select energies from a radioactive source.
 
-![PHA spectrum](spectrum.png)
+![PHA spectrum](spectrum.PNG)
 
 ## Contents
 
