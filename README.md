@@ -6,6 +6,8 @@
 
 This repository contains the hardware designs and software applications of the Open Source Pulse Height Analyzer (PHA) developed by the Scientific Instrumentation Group (GICM) at the University of Antioquia. The PHA is an instrument commonly used in nuclear physics to select energies from a radioactive source.
 
+![PHA spectrum](spectrum.png)
+
 ## Contents
 
 - .ino file: Upload this file to the ESP32 microcontroller (ESP32-DEVKITV1) using the Arduino IDE. Please install the ESP32 board first. You can find a tutorial [here](https://www.tutorialspoint.com/esp32_for_iot/installing_the_esp32_board_in_arduino_ide.htm).
