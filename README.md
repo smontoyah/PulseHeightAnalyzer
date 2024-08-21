@@ -4,9 +4,14 @@
 
 **Date Created:** August 2023
 
-This repository contains the hardware designs and software applications of the Open Source Pulse Height Analyzer (PHA) developed by the Scientific Instrumentation Group (GICM) at the University of Antioquia. The PHA is an instrument commonly used in nuclear physics to select energies from a radioactive source. However, the primary motivation for designing and implementing this instrument is to accurately characterize the energy peaks of the radioactive source used at our university for Mössbauer spectroscopy. It is well known that in developing countries, acquiring radioactive material is challenging. As a result, the sources used for this material characterization technique can sometimes exceed their useful life and still need to be utilized. Therefore, this instrument enables the identification and filtering of the useful energies needed for this type of spectroscopy, specifically the 14.4 keV line.
+This repository contains the hardware designs and software applications of the Open Source Pulse Height Analyzer (PHA) developed by the Scientific Instrumentation Group (GICM) at the University of Antioquia. The PHA is an instrument commonly used in nuclear physics to select energies from a radioactive source. However, the primary motivation for designing and implementing this instrument is to accurately characterize the energy peaks of the radioactive source used at our university for Mössbauer spectroscopy.
+
+ It is well known that in developing countries, acquiring radioactive material is challenging. As a result, the sources used for this material characterization technique can sometimes exceed their useful life and still need to be utilized. Therefore, this instrument enables the identification and filtering of the useful energies needed for this type of spectroscopy, specifically the 14.4 keV line.
 
 Among the planned improvements for this instrument are the use of a higher-resolution DAC and multivibrators capable of operating at high frequencies. These enhancements will allow the pulse discrimination circuit to be utilized in applications with higher event emission rates.
+
+Below is the graph of the height spectrum of the radioactive source from the Mössbauer spectrometer. This data is obtained from the graphical user interface that was programmed.
+
 
 ![PHA spectrum](spectrum.PNG)
 
