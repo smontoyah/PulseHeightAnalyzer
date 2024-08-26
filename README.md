@@ -15,6 +15,10 @@ Below is the graph of the height spectrum of the radioactive source from the Mö
 
 ![PHA spectrum](spectrum.PNG)
 
+### NIM form factor
+
+A new phase of the project involves implementing the instrument in a NIM-format module, which will feature a TFT display with a user interface and control panel for visualizing peak spectra and configuring event acquisition parameters. This initial prototype will be used in the Mössbauer spectrometry laboratory at the University of Antioquia (UdeA) and will be continuously improved to meet the needs of other laboratories worldwide.
+
 ## Contents
 
 - .ino file: Upload this file to the ESP32 microcontroller (ESP32-DEVKITV1) using the Arduino IDE. Please install the ESP32 board first. You can find a tutorial [here](https://www.tutorialspoint.com/esp32_for_iot/installing_the_esp32_board_in_arduino_ide.htm).
